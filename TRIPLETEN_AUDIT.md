@@ -27,9 +27,9 @@ Audit date: October 5, 2026
 | Break-even identified | Pass | 2024 reaches break-even in month 4; 2025 reaches break-even in month 6. |
 | README answers all three business questions | Pass | Cohort timing, forecast amount/seasonality, and both CAC payback periods are documented. |
 | Required data and screenshot filenames | Pass | All required files are present with exact names. |
-| Tableau workbook in repository | Pending publish | Workbook is complete in Tableau Public Desktop; the packaged/public workbook must be added after publishing. |
-| Public GitHub repository with exact name | Pending publish | Must be created as `fitness-subscription-analytics`. |
-| TripleTen submission | Pending confirmation | Submit only after the public repository URL is verified. |
+| Tableau workbook in repository | Pass | Published workbook is included as `FitnessHub_Subscription_Analytics.twbx`; the live Tableau Public report is linked in `README.md`. |
+| Public GitHub repository with exact name | Pass | Public repository is available at `https://github.com/JcolonBlanch/fitness-subscription-analytics`. |
+| TripleTen submission | Pass | Repository URL was submitted successfully; TripleTen shows `Project has been submitted` and `Review in progress`. |
 
 ## Verified figures
 
@@ -42,6 +42,6 @@ Audit date: October 5, 2026
 - 2025 total CAC: $1,162,459.11; break-even month 6
 - Subscription retention: 100.00% at month 0, 84.99% at month 1, 71.56% at month 2, and 42.01% at month 3
 
-## Pre-submission gate
+## Final submission status
 
-The analytical work and local repository contents now match the live TripleTen rubric. The remaining steps are external actions: publish the Tableau workbook, add the resulting workbook file/link to the public GitHub repository, verify the public repository contents, and submit that repository URL to TripleTen.
+All analytical, file-structure, publication, repository, and submission requirements have been completed and verified against the live TripleTen rubric.
