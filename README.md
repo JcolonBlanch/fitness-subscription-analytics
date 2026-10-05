@@ -2,6 +2,10 @@
 
 This Tableau Public project analyzes customer retention, subscription revenue, and the relationship between customer acquisition cost (CAC) and lifetime value (LTV) for a fitness subscription business.
 
+## Live Tableau report
+
+[View FitnessHub Subscription Analytics on Tableau Public](https://public.tableau.com/app/profile/jonathan.colon/viz/FitnessHubSubscriptionAnalytics/CustomerCohort)
+
 ## Project objectives
 
 - Identify when customer retention declines most sharply after acquisition.
