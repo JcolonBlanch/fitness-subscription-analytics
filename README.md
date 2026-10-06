@@ -4,7 +4,7 @@ This Tableau Public project analyzes customer retention, subscription revenue, a
 
 ## Live Tableau report
 
-[View FitnessHub Subscription Analytics on Tableau Public](https://public.tableau.com/app/profile/jonathan.colon/viz/FitnessHubSubscriptionAnalytics/CustomerCohort)
+[View FitnessHub Subscription Analytics on Tableau Public](https://public.tableau.com/app/profile/jonathan.colon/viz/FitnessHub_Subscription_Analytics/CustomerCohort)
 
 ## Project objectives
 
@@ -58,8 +58,8 @@ Cumulative LTV is represented by a running sum of revenue across `Months Since F
 
 ### Customer cohorts
 
-- Retention is 100% in acquisition month, 84.99% in month 1, 71.56% in month 2, and 42.01% in month 3.
-- The largest early retention decline occurs by month 3, when approximately 42% of the original customers remain active.
+- Retention is 100% in the acquisition month, approximately 85% in month 1, 78% in month 2, and 50% in month 3 across the monthly cohorts.
+- The largest early retention decline occurs by month 3, when approximately half of the original customers remain active.
 - The median observed customer lifetime is approximately two months.
 
 ### Revenue forecast
@@ -84,9 +84,9 @@ Cumulative LTV is represented by a running sum of revenue across `Months Since F
 
 - `FitnessHub_Subscription_Analytics.twbx` — packaged Tableau workbook (added after publishing from Tableau Public).
 - `data/Fitness_Subscriptions_Dataset.xlsx` — original project dataset.
-- `screenshots/cohort_analysis.png` — monthly cohort retention matrix.
+- `screenshots/cohort_analysis.png` — screenshot taken directly from the completed Tableau monthly cohort retention worksheet.
 - `screenshots/revenue_forecast.png` — historical subscription revenue and 12-month forecast.
-- `screenshots/cac_vs_ltv.png` — cohort LTV, CAC thresholds, and break-even points.
+- `screenshots/cac_vs_ltv.png` — screenshot taken directly from Tableau with cumulative revenue and CAC synchronized to the same axis scale.
 - `screenshots/data_model.png` — Tableau relationship between customers and transactions.
 
 ## Business recommendations
